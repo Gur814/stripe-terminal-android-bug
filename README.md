@@ -5,6 +5,8 @@ This project builds and runs, but Android Studio cannot find anything within the
 Here is what I'm seeing on both of my computers:
 ![Screenshot](./screenshot.PNG)
 
+If I change the version to 1.0.0-rc1, the problem goes away.
+
 I've tried:
 - File > Invalidating Caches / Restart
 - Deleting .idea and build/ directories and reimporting the project.
